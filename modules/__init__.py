@@ -1,1 +1,1 @@
-from .settings import name
+from .settings import *
